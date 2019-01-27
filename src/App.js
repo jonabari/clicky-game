@@ -55,7 +55,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "Glaven!",
+      rightWrong: "rawr!",
       clicked: []
     });
     this.handleShuffle();
@@ -70,14 +70,14 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="Simpsons Clicky Game"
+          title="bear.ly"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
 
         <Title>
-          bear.ly
+          Click on a bear, then never click on that bear again.
         </Title>
 
         <Container>
