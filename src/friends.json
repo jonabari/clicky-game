@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Grizzly Bear",
+    "image": "https://sl-buttercms.imgix.net/eSnKNIelRCefuyY2Knqa?w=1000",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Black Bear",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJwcG1kCIfjEAbtct92gKOJTDj-SyahNjR9UXD2gL0NkBl6nqfQ",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Bear Cub",
+    "image": "https://i.pinimg.com/originals/6f/8f/93/6f8f93ef84518273bdf41528c970ac74.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Brown Bear",
+    "image": "https://images.discerningassets.com/image/upload/c_fit,h_1000,w_1000/c_fit,fl_relative,h_1.0,l_deco_watermark,o_40,w_1.0/v1535788441/untitled-2491_o5a2hm.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Panda Bear",
+    "image": "http://www.todayifoundout.com/wp-content/uploads/2013/10/giant-panda.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Koala Bear",
+    "image": "https://i.pinimg.com/originals/f9/2d/02/f92d02c4a2c6adfeb20eb6eb68ea4926.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Polar Bear",
+    "image": "https://img.apmcdn.org/19fa6a5afd43beab6ed7726859f9f5e74f2ea98f/uncropped/df7c97-20100602-neilandbuzz.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Bear?",
+    "image": "https://pbs.twimg.com/media/DvDC5fUXQAMwev7.jpg",
+    "clicked": false
+  }
+]
