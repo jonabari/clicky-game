@@ -4,7 +4,7 @@ import "./Nav.css";
 const Nav = props => (
   <nav>
     <ul>
-      <li className="brand animated lightSpeedIn">
+      <li className="brand">
         <a href="/clicky-game/">{props.title}</a>
       </li>
 
