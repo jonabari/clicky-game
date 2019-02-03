@@ -55,7 +55,7 @@ class App extends Component {
     this.setState({
       currentScore: 0,
       topScore: this.state.topScore,
-      rightWrong: "rawr!",
+      rightWrong: "Pow!",
       clicked: []
     });
     this.handleShuffle();
@@ -70,15 +70,13 @@ class App extends Component {
     return (
       <Wrapper>
         <Nav
-          title="bear.ly"
+          title="Click-Click"
           score={this.state.currentScore}
           topScore={this.state.topScore}
           rightWrong={this.state.rightWrong}
         />
 
-        <Title>
-          Click on a bear, then never click on that bear again.
-        </Title>
+        <Title>Click on a different image to add points. Be careful, you can lose if you click the same image more than once.</Title>
 
         <Container>
           <Row>

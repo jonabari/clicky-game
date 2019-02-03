@@ -1,50 +1,74 @@
 [
   {
     "id": 1,
-    "name": "Grizzly Bear",
-    "image": "https://sl-buttercms.imgix.net/eSnKNIelRCefuyY2Knqa?w=1000",
+    "name": "Batman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/9/9d/Batman_003.jpg/revision/latest?cb=20090114064958",
     "clicked": false
   },
   {
     "id": 2,
-    "name": "Black Bear",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJwcG1kCIfjEAbtct92gKOJTDj-SyahNjR9UXD2gL0NkBl6nqfQ",
+    "name": "Superman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/1/14/Superman_0002.jpg/revision/latest?cb=20100419210629",
     "clicked": false
   },
   {
     "id": 3,
-    "name": "Bear Cub",
-    "image": "https://i.pinimg.com/originals/6f/8f/93/6f8f93ef84518273bdf41528c970ac74.jpg",
+    "name": "Wonder Woman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/c/cc/Wonder_Woman_Vol_5_4_Textless.jpg/revision/latest/scale-to-width-down/688?cb=20160810132845",
     "clicked": false
   },
   {
     "id": 4,
-    "name": "Brown Bear",
-    "image": "https://images.discerningassets.com/image/upload/c_fit,h_1000,w_1000/c_fit,fl_relative,h_1.0,l_deco_watermark,o_40,w_1.0/v1535788441/untitled-2491_o5a2hm.jpg",
+    "name": "Aquaman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/9/9b/Aquaman_0176.jpg/revision/latest/scale-to-width-down/658?cb=20110909221325",
     "clicked": false
   },
   {
     "id": 5,
-    "name": "Panda Bear",
-    "image": "http://www.todayifoundout.com/wp-content/uploads/2013/10/giant-panda.jpg",
+    "name": "The Flash",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/74/Flash_0006.jpg/revision/latest/scale-to-width-down/658?cb=20120215162619",
     "clicked": false
   },
   {
     "id": 6,
-    "name": "Koala Bear",
-    "image": "https://i.pinimg.com/originals/f9/2d/02/f92d02c4a2c6adfeb20eb6eb68ea4926.jpg",
+    "name": "Green Lantern",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/8/83/Hal_Jordan_and_the_Green_Lantern_Corps_Vol_1_45_Textless_Variant.jpg/revision/latest/scale-to-width-down/658?cb=20180523193425",
     "clicked": false
   },
   {
     "id": 7,
-    "name": "Polar Bear",
-    "image": "https://img.apmcdn.org/19fa6a5afd43beab6ed7726859f9f5e74f2ea98f/uncropped/df7c97-20100602-neilandbuzz.jpg",
+    "name": "Martian Manhunter",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/73/Martian_Manhunter_Vol_4_11_Romita_Jr_Textless_Variant.jpg/revision/latest/scale-to-width-down/665?cb=20160422190733",
     "clicked": false
   },
   {
     "id": 8,
-    "name": "Bear?",
-    "image": "https://pbs.twimg.com/media/DvDC5fUXQAMwev7.jpg",
+    "name": "Cyborg",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/7/78/Cyborg_Vol_1_1_Textless.jpg/revision/latest/scale-to-width-down/658?cb=20160323205646://pbs.twimg.com/media/DvDC5fUXQAMwev7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Batgirl",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/8/80/Batgirl_Barbara_Gordon_0014.jpg/revision/latest/scale-to-width-down/1000?cb=20110522152007",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Robin",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/6/61/Teen_Titans_Rebirth_Vol_1_1_Textless.jpg/revision/latest?cb=20160518052637",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Hawkman",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/f/fb/Hawkman_Vol_5_1_Textless_Variant.jpg/revision/latest?cb=20180625012009",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Supergirl",
+    "image": "https://vignette.wikia.nocookie.net/marvel_dc/images/0/0a/Kara_Zor-El_037.jpg/revision/latest/scale-to-width-down/1000?cb=20140717171203",
     "clicked": false
   }
 ]

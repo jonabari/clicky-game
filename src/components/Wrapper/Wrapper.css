@@ -1,7 +1,8 @@
 .wrapper {
-  background: rgb(175, 175, 175);
-  background-image: url('https://cdn.thewire.in/wp-content/uploads/2018/04/19191238/nature-sky-night-star-milky-way-cosmos-1225110-pxhere.com_.jpg');
+  /*background-image: url('./cartographer.png');*/
+  background-image: linear-gradient( 135deg, #F05F57 10%, #360940 100%);
   height: 100%;
+  background-size: auto;
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
